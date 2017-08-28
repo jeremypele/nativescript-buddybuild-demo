@@ -2,7 +2,7 @@
 
 # Install NativeScript CLI
 echo "******** Install NativeScript CLI *************"
-npm install -g nativescript
+npm install -g nativescript@3.1.3
 
 # NativeScript Ready
 echo "******** NativeScript CLI Ready *************"
