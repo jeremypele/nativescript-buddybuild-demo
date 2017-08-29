@@ -14,6 +14,3 @@ node -v
 echo "Last Commit from"
 echo $(git log -1 --pretty=format:"%an <%ae>")
 
-# Prepare NativeScript Project
-echo "******** Prepare NativeScript Android Project *************"
-tns prepare android
